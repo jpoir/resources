@@ -19,3 +19,7 @@ Collect AI resources
 
 AI arch references?
 
+
+
+https://dev.to/devmount/a-cheatsheet-of-128-cheatsheets-for-developers-f4m?ref=dailydev
+
