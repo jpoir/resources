@@ -19,7 +19,7 @@ Collect AI resources
 
 AI arch references?
 
-
+Git: https://appwrite.io/blog/post/15-git-cli-tips?ref=dailydev
 
 https://dev.to/devmount/a-cheatsheet-of-128-cheatsheets-for-developers-f4m?ref=dailydev
 
